@@ -3,6 +3,15 @@
     <channel>
         <title>Spark</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Wed, 07 Oct 2026 09:31:29 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.1/Spark-0.2.1.dmg" length="8885472" type="application/octet-stream" sparkle:edSignature="iEefA1qgvz0dFojPhUbjlhNpv9fq2sveAW/ba3OMGJJhE9jQIfjT/V1XmCdW8s5PP8o6ZbwWgsWBdML04TcCDA=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 07 Oct 2026 08:43:42 +0530</pubDate>
             <sparkle:version>2</sparkle:version>
