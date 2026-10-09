@@ -3,6 +3,15 @@
     <channel>
         <title>Spark</title>
         <item>
+            <title>0.2.5</title>
+            <pubDate>Fri, 09 Oct 2026 22:46:29 +0530</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.5/Spark-0.2.5.dmg" length="9933619" type="application/octet-stream" sparkle:edSignature="oBxUnJ4vOMB6aCBQ0kgFqFTFO2Hc3uUBD0tUCqZ0h8CM7jrgr4G+JqeY9nWtZcP5gIM/eynmA6l6LXiv35+1Bg=="/>
+        </item>
+        <item>
             <title>0.2.4</title>
             <pubDate>Wed, 07 Oct 2026 23:31:26 +0530</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.3/Spark-0.2.3.dmg" length="8897517" type="application/octet-stream" sparkle:edSignature="p21sVY8AvVCg/oyTFQW67+nRcQk4vIlwVPAhrXMqM/6HgbnQUOXC2Xwz78IN906MedDM2NrSR4OmNclMKpeRCw=="/>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Wed, 07 Oct 2026 11:23:32 +0530</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.2/Spark-0.2.2.dmg" length="8896315" type="application/octet-stream" sparkle:edSignature="Uentsgc8zaCZ9TwwiRW5Fzdm9y082UpcMkV8nYEYUEfe3OPiJkUnNTSlget6Czg417HTiqdgCuyKlpVc1pwGCw=="/>
         </item>
     </channel>
 </rss>
