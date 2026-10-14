@@ -3,6 +3,15 @@
     <channel>
         <title>Spark</title>
         <item>
+            <title>0.2.9</title>
+            <pubDate>Wed, 14 Oct 2026 07:51:40 +0530</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.9/Spark-0.2.9.dmg" length="10477128" type="application/octet-stream" sparkle:edSignature="GWj9UEG0mFK5HC71poCjQsh7k34lM7OVCksA/4h4XI35cQ+VdvzSDmyD3KOsGexB/7ES+yZcBaKibtOs77/dCQ=="/>
+        </item>
+        <item>
             <title>0.2.8</title>
             <pubDate>Tue, 13 Oct 2026 09:11:49 +0530</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.7/Spark-0.2.7.dmg" length="10205963" type="application/octet-stream" sparkle:edSignature="MK+RZE8E5hKx8ZSlrivuddf4xNU8knw3A/RLR2VyBBCFu8ulZ6kYJ6D0zYDUrImXPY4ub2KDYgkotvPDHbCjBA=="/>
-        </item>
-        <item>
-            <title>0.2.6</title>
-            <pubDate>Sat, 10 Oct 2026 08:25:45 +0530</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.6/Spark-0.2.6.dmg" length="10086028" type="application/octet-stream" sparkle:edSignature="Pi5mFNdbVkpeP/A/t9ZstdMdeiV33EspeWzG1Q5XJp610BX26sfSPX4HF+Jq53l2a6+8jwceGqzjaHf238SWDA=="/>
         </item>
     </channel>
 </rss>
