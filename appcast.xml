@@ -3,6 +3,15 @@
     <channel>
         <title>Spark</title>
         <item>
+            <title>0.2.16</title>
+            <pubDate>Mon, 26 Oct 2026 12:17:11 +0530</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.16/Spark-0.2.16.dmg" length="13566900" type="application/octet-stream" sparkle:edSignature="GUiLHfNJZEHDvu21pUvcPT6LxFq/80aH+Y7GajFiV25t1B0Ir9py9SN3GZqrJ82Y4MZ0BWkPqO+dvQsGjYymAw=="/>
+        </item>
+        <item>
             <title>0.2.15</title>
             <pubDate>Tue, 20 Oct 2026 20:48:04 +0530</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.14/Spark-0.2.14.dmg" length="12986390" type="application/octet-stream" sparkle:edSignature="1P5HDed1zaXc1aF6kVe7/xDvs5VlhgCeWKOp8asY1qCoon+lEcC+WDmlAmKZ+POCQ42VKjYRPN2zR8RFps3+Bg=="/>
-        </item>
-        <item>
-            <title>0.2.13</title>
-            <pubDate>Fri, 16 Oct 2026 12:01:41 +0530</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sumitrk/spark-releases/releases/download/native-v0.2.13/Spark-0.2.13.dmg" length="12204861" type="application/octet-stream" sparkle:edSignature="OOhZXq+VPpBtb09VSxklemo7U1KmhbHpTzAxMBazwgNGz+BikcaA9g5x2pvsEdQituhdZUTKDX+/++YwrUYDCg=="/>
         </item>
     </channel>
 </rss>
